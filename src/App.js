@@ -13,7 +13,7 @@ const API_key = "ea221bde9cfda936fcbcc49fe4042322";
 class App extends React.Component{
   constructor(){
     super();
-    document.title = "WEATHER";
+    document.title = "WEATHER APP";
     this.state = {
       city:undefined,
       country:undefined,
